@@ -10,7 +10,7 @@ function AboutMe() {
         <div className='about-me__align'>
           <h3 className='about-me__name'>Ярослав</h3>
           <p className='about-me__subtitle'>Фронтенд-разработчик, 27 лет</p>
-          <p className='about__info-description text'>Я живу в городе Липецк.
+          <p className='about-me__text'>Я живу в городе Липецк.
           Закончил ВИПС по специальности "Сети связи и системы коммутации". Женат, 2 детей, есть кошка и собака.
           Увлекаюсь страйкболом. В свободное время решаю задачи на codewars. В настоящий момент учусь в Яндекс.Практикуме на веб-разработчика.
           </p>
