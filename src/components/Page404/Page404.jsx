@@ -7,7 +7,7 @@ function Page404() {
     <main className="page-error">
       <h1 className="page-error__title">404</h1>
       <p className="page-error__text">Страница не найдена</p>
-      <Link to="/" className="page-error__btn">
+      <Link to={-1} className="page-error__btn">
         Назад
       </Link>
     </main>

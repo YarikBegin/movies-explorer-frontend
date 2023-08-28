@@ -8,20 +8,20 @@
   }
   
   .footer__text {
-      font-weight: 400;
+    font-weight: 400;
     font-size: 13px;
     color: #8B8B8B;
     margin: 0;
-      display: flex;
-      justify-content: center;
-      height: 37px;
-      border-bottom: solid 1px #424242;
+    display: flex;
+    justify-content: center;
+    height: 37px;
+    border-bottom: solid 1px #424242;
   }
   
   .footer__align {
-      display: flex;
+    display: flex;
     margin-top: 17px;
-      justify-content: space-between;
+    justify-content: space-between;
   }
   
   .footer__list {
@@ -29,7 +29,7 @@
     margin: 0;
     list-style: none;
     display: flex;
-      gap: 20px;
+    gap: 20px;
   }
   
   .footer__link {
@@ -46,10 +46,10 @@
   }
   
   .footer__copyright {
-      margin-top: 20px;
-      font-weight: 400;
+    margin-top: 20px;
+    font-weight: 400;
     font-size: 13px;
-      margin: 0;
+    margin: 0;
   }
   
   @media screen and (max-width: 768px) {
